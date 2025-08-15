@@ -34,6 +34,8 @@ It was developed to understand **real-world application architecture**, authenti
 
 <img width="1920" height="944" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/6d51e52e-fd57-4bba-a29a-234fbc2d3c46" />
 <img width="1920" height="942" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/2dbd67fd-d227-48e1-b5a7-835e8ddf14be" />
+<img width="1920" height="915" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/258e63df-4da7-450b-84ae-564cadef4091" />
+
 
 
 
