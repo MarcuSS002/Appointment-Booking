@@ -12,7 +12,7 @@ It was developed to understand **real-world application architecture**, authenti
 
 
 
- 🚀 Features
+ 🚀 Features 
 
 👤 User Portal
 - Search and browse doctors by specialty
@@ -29,9 +29,14 @@ It was developed to understand **real-world application architecture**, authenti
 ### ⚙ Backend API
 - RESTful API with **Node.js**, **Express.js**, and **MongoDB**
 - **JWT authentication** for users and admins
-- Role-based access control
-- File uploads via Multer + Cloudinary
 
----
+
+
+<img width="1920" height="944" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/6d51e52e-fd57-4bba-a29a-234fbc2d3c46" />
+<img width="1920" height="942" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/2dbd67fd-d227-48e1-b5a7-835e8ddf14be" />
+
+
+
+
 
  🗂 Project Structure
